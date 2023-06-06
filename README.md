@@ -19,7 +19,7 @@
 
 - Lakukan join table Mahasiswa dan Dosen.
 - Lakukan join tabel Matakuliah dan Dosen.
-- Lakukan join table JadwalMengajar, Dosen, dan Matakululiah.
+- Lakukan join table JadwalMengajar, Dosen, dan Matakuliah.
 - Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen.
 
 ## Buat Script SQL JOIN Table berdasarkan skema data diatas.
